@@ -1,3 +1,4 @@
+// all rules: https://eslint.org/docs/rules/
 {
   "extends": "next/core-web-vitals"
 }
